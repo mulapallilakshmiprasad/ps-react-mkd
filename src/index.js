@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import '../node_modules/highlight.js/styles/ocean.css';
+import Docs from './docs/Docs';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Docs />
   </React.StrictMode>,
   document.getElementById('root')
 );
