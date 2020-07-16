@@ -31,6 +31,7 @@
         "eslint-plugin-react-hooks": "^1.6.1",
         "file-loader": "4.3.0",
         "fs-extra": "^8.1.0",
+        "gh-pages": "^0.12.0",
         "highlight.js": "^9.10.0",
         "html-webpack-plugin": "4.0.0-beta.11",
         "identity-obj-proxy": "3.0.0",
@@ -86,6 +87,7 @@
         "webpack-manifest-plugin": "2.2.0",
         "workbox-webpack-plugin": "4.3.1"
     },
+    "homepage": "http://manojkumardesai.github.io/ps-react-mkd/",
     "scripts": {
         "prestart": "npm run gen:docs",
         "start": "npm-run-all --parallel start:docs gen:docs-watch",
