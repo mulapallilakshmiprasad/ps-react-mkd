@@ -1,5 +1,5 @@
 {
-    "name": "ps-react-mkd",
+    "name": "ps-react-mkd-build-template",
     "version": "0.1.0",
     "main": "./lib/index.js",
     "private": true,
